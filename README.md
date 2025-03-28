@@ -23,5 +23,16 @@ This project  primary objectives  are:
 
 - A review of sales performance conducted across different locations to discover new markets where the company could expand its business operations.
 
-# Data and Methodology
+# Data Set Used
+
+- Customer_infor table: It contains information about the customers
+- Sales_transaction table:This table contains product name alongside category information and quantity details and total amount information and transaction date records.
+
+# Tools and Technologies Used
+
+## Database Management System (DBMS)
+
+- PostgreSQL. Act as the database management system to process customer and sales information with high efficiency.
+- Query Language. The database management system uses the query language SQL (Structured Query Language) for retrieving and processing data through aggregation operations while filtering and performing analytical calculations.
+- Debeaver for query execution and database administration.
 
