@@ -3,7 +3,7 @@ The Retail Sales Insights project investigates customer transactions together wi
 
 # Objectives
 
-This project sets two primary objectives which are:
+This project  primary objectives  are:
 
 - The evaluation of sales transactions. Bring forward trends in transaction data such as yearly revenue statistics alongside citywide transaction counts and shopping patterns among customers.
 
