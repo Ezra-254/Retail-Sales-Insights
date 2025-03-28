@@ -17,13 +17,11 @@ This project sets two primary objectives which are:
 
 - Sales Growth Trends. Require analysis of monthly sales development with yearly sales performance data along with customer spending pattern observations.
 
- -The analysis should uncover business improvement potentials which cover preferred purchasing periods and seasonal sales patterns besides recognizing customers who boost their spending.
+- The analysis should uncover business improvement potentials which cover preferred purchasing periods and seasonal sales patterns besides recognizing customers who boost their spending.
 
-- Companies should analyze consumers who reduced their buying habits to stop customer departures through specific advertising campaigns.
+- Analyze Company consumers who reduced their buying habits to stop customer departures through specific advertising campaigns.
 
-- A review of sales performance should be conducted across different locations to discover new markets where the company could expand its business operations.
+- A review of sales performance conducted across different locations to discover new markets where the company could expand its business operations.
 
-- The system detects abnormal transaction patterns in sales to prevent fraud while maintaining financial system security.
-
-3. Data and Methodology
+# Data and Methodology
 
